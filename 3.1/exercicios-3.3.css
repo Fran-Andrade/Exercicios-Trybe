@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(243, 185, 243);
+    padding: 3%;
+    }
+
+h1 {
+    color:rgb(251, 40, 191);
+    padding: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+   }
+
+h3 {
+    font-family: Georgia;
+    position: relative;
+    height: 500px;
+    top: 30%;
+    left: 3%;
+    padding: 10%;
+    }
+
+#imagem {
+    float: left;
+    height: 500px;
+    padding: 10px;
+    background-color: blueviolet;
+    }
+
+#container {
+    position: relative;
+}
+
+
+ 
